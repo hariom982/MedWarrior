@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.medwarrior.ui.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/diseases"
+        android:name="com.example.medwarrior.ui.ui.gallery.GalleryFragment"
+        android:label="Disease with solution"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/records"
+        android:name="com.example.medwarrior.ui.ui.slideshow.SlideshowFragment"
+        android:label="Records"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/holder"
+        android:name="com.example.medwarrior.ui.ui.holderfrag"
+        android:label="Your Doctor"
+        tools:layout="@layout/fragment_holderfrag"/>
+</navigation>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E7EEEF"
+    tools:context=".ui.ui.holderfrag">
+
+    <Button
+        android:id="@+id/done"
+        android:layout_width="298dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginEnd="38dp"
+        android:background="#0097A7"
+        android:text="Done"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:backgroundTint="#76D82F"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.451"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.892" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="277dp"
+        android:layout_height="29dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="56dp"
+        android:fontFamily="sans-serif-medium"
+        android:text=" Add details of"
+        android:textColor="@color/black"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="280dp"
+        android:layout_height="55dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginEnd="56dp"
+        android:fontFamily="sans-serif-medium"
+        android:text=" Your Doctor"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintTop_toBottomOf="@id/textView12"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="101dp" />
+
+    <EditText
+        android:id="@+id/name1"
+        android:layout_width="298dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginEnd="38dp"
+        android:ems="10"
+        android:hint="Enter Your Name"
+        android:inputType="text"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.334" />
+
+    <EditText
+        android:id="@+id/Phone1"
+        android:layout_width="298dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginEnd="38dp"
+        android:ems="10"
+        android:hint="Mobile Number"
+        android:inputType="phone"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.548"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.45" />
+
+    <Button
+        android:id="@+id/getotp"
+        android:layout_width="298dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="404dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginBottom="26dp"
+        android:background="#0097A7"
+        android:text="Get OTP"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:backgroundTint="#76D82F"
+        app:layout_constraintBottom_toTopOf="@+id/otp1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.419"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.607" />
+
+    <EditText
+        android:id="@+id/otp1"
+        android:layout_width="298dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginEnd="38dp"
+        android:ems="10"
+        android:hint="Enter OTP"
+        android:textColor="@color/black"
+        android:inputType="number"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.631"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.745" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">MedWarrior</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mainscreen">Mainscreen</string>
+    <string name="fever">A viral fever is any fever that happens as a result of a viral infection. Viruses are tiny germs that spread easily from person to person.
+
+When you contract a viral condition, such as a cold or flu, your immune system responds by going into overdrive. Part of this response often involves raising your body’s temperature to make it less hospitable to the virus and other germs.
+
+Most people’s usual body temperature is around 98.6°F (37°C). Anything 1 degree or more above this is considered a fever. A fever can last anywhere from a couple of days to a week or longer, depending on the type of infection causing it.
+
+While the virus runs its course, there are several things you can do to help manage your symptoms.
+
+        <bold>Know when to see your doctor</bold>
+
+        Fevers usually aren’t something to worry about. But when they’re high enough, they can pose some health risks.
+
+For children
+A high fever can be more dangerous for a young child than an adult. Here’s when to call your child’s doctor:
+
+Children ages 0 to 3 months: Rectal temperature is 100.4°F (38°C) or higher.
+Children ages 3 to 6 months: Rectal temperature is above 102°F (39°C) and they’re irritable or sleepy.
+Children ages 6 to 24 months: Rectal temperature is above 102°F (39°C) that lasts for more than a day. If they have other symptoms, such as a rash, cough, or diarrhea, you may want to call sooner.
+For children 2 and older, call their doctor if they have a fever that repeatedly rises above 104°F (40°C). Also seek medical advice if your child has a fever and:
+
+They seem unusually lethargic and irritable or have other severe symptoms.
+The fever lasts longer than three days.
+The fever doesn’t respond to medication.
+They don’t maintain eye contact with you.
+They can’t keep fluids down.
+For adults
+Fevers can also be risky for adults in some cases. See your doctor for a fever that’s 103°F (39°C) or higher that isn’t responding to medication or lasts longer than three days. Also seek treatment if a fever is accompanied by:
+
+severe headache
+rash
+sensitivity to bright light
+stiff neck
+frequent vomiting
+trouble breathing
+chest or abdominal pain
+convulsions or seizures
+
+Drink fluids
+A viral fever makes your body much warmer than usual. This causes your body to sweat in an effort to cool down. But this leads to fluid loss, which can cause dehydration.
+
+Try to drink as much as you can when you have a viral fever to replenish lost fluids. It doesn’t have to be just water, either. Any of the following can provide hydration:
+
+juice
+sports drinks
+broths
+soups
+decaffeinated tea
+Babies and toddlers may benefit from a specially formulated drink with electrolytes, such as Pedialyte. You can purchase these drinks at a local grocery store or online. You can also make your own electrolyte drink at home.
+
+Get plenty of rest
+A viral fever is a sign that your body is working hard to fight off an infection. Cut yourself some slack by resting as much as possible. Even if you can’t spend the day in bed, try to avoid as much physical activity as possible. Aim for eight to nine hours or more of sleep per night. During the day, take it easy.
+
+It’s also best to put your exercise routine on a temporary hold. Exerting yourself can further raise your temperature.
+
+
+Take an over-the-counter medication
+Over-the-counter (OTC) fever reducers are the easiest way to manage a fever. In addition to temporarily reducing your fever, they’ll help you feel a little less uncomfortable and more like yourself.
+
+Just make sure you keep getting plenty of rest, even if you feel better for a few hours after taking an OTC drug.
+
+Common OTC fever reducers include:
+
+acetaminophen (Tylenol, Children’s Tylenol)
+ibuprofen (Advil, Children’s Advil, Motrin)
+aspirin
+naproxen (Aleve)
+Before you turn to OTC fever reducers, keep this safety information in mind:
+
+Never give aspirin to children. It can greatly increase the risk of Reye’s syndrome, a rare but very serious condition.
+Don’t take more than what’s recommended by the manufacturer. Doing so can lead to stomach bleeding, liver damage, or kidney problems.
+Jot down the time when you take an OTC medication so you can make sure you don’t take too much in a 24-hour period.
+Try herbal remedies
+People sometimes try herbal remedies to treat a fever. Keep in mind that these supplements have been shown to improve fever in animals. There’s no reliable evidence that they work in humans. Their safety in children is often unclear or unknown, too. It’s best to avoid these remedies in children.
+
+It’s also important to note that the Food and Drug Administration doesn’t monitor the quality of supplements like they do for drugs. Talk to your doctor before trying any supplements. Follow the manufacturer’s instructions.
+
+Moringa
+Moringa is a tropical plant that has a variety of nutritional and medicinal benefits. Almost all parts of the plant contain vitamins, minerals, antioxidants, and antibacterial agents. A 2014 studyTrusted Source found that moringa bark reduced fevers in rabbits.
+
+More research is needed to determine how this plant can reduce fevers in humans. Some research suggests it may be gentler on the liver than over-the-counter medication such as acetaminophen.
+
+Don’t use moringa if you:
+
+are pregnant
+take medications that are substrates of cytochrome P450, such as lovastatin (Altoprev), fexofenadine (Allegra), or ketoconazole (Nizoral)
+In one case report, consumption of moringa leaves lead to a rare disease of the skin and mucous membranes called Stevens-Johnson syndrome (SJS). This suggests people at risk of developing SJS should avoid using moringa. However, this was the first reported case and the reaction should be considered extremely rare.
+
+    </string>
+</resources>

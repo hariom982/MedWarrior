@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293690891460",
+    "project_id": "medwarrior-345b5",
+    "storage_bucket": "medwarrior-345b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293690891460:android:f5ee52d4d355e745cdfd91",
+        "android_client_info": {
+          "package_name": "com.example.medwarrior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293690891460-8m5ncpjeer2pd4t2pqjsknnicgujl3ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1gCBfTP1ukyCZVSwl0V-7dbtkqzOETn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293690891460-8m5ncpjeer2pd4t2pqjsknnicgujl3ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
